@@ -1,0 +1,20 @@
+/* -- styles.css -- */
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.classy{
+    font-size: 20px;
+    background-color: #ff000060;
+}
+#number2{
+    font-size: 48px;
+    color: blue;
+}
+#number3{
+    font-size: 36px;
+}
+#number4{
+    font-size: 36px;
+    font-weight: bold;
+    background: #00ff0070;
+}
